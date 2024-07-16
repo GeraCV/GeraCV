@@ -4,8 +4,8 @@
 
 <p align="center">
   Soy <strong> desarrollador web </strong> 
-  con mas de año y medio de experiencia profesional y <br /> dos años de proyectos personales. <br />
-  Actualmente estoy enfocado en mejorar mis habilidades <br /> tanto del frontend cómo del backend.
+  con 3 años de experiencia profesional
+  Actualmente estoy enfocado en colaborar en proyectos que me reten y hagan crecer mis conocimientos en desarrollo de software.
  </p>
  
  ---
