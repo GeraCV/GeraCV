@@ -4,8 +4,8 @@
 
 <p align="center">
   Soy <strong> desarrollador web </strong> 
-  con 3 años de experiencia profesional
-  Actualmente estoy enfocado en colaborar en proyectos que me reten y hagan crecer mis conocimientos en desarrollo de software.
+  con 3 años de experiencia profesional. <br>
+  Actualmente estoy enfocado en colaborar en proyectos que me reten y <br> hagan crecer mis conocimientos en desarrollo de software.
  </p>
  
  ---
