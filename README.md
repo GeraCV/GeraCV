@@ -4,8 +4,9 @@
 
 <p align="center">
   Soy <strong> desarrollador web </strong> 
-  con 3 años de experiencia profesional. <br>
-  Actualmente estoy enfocado en colaborar en proyectos que me reten y <br> hagan crecer mis conocimientos en desarrollo de software.
+  con mas de 3 años de experiencia profesional. <br>
+  Actualmente estoy enfocado en colaborar en proyectos que me reten y <br>
+  en donde pueda aplicar mis conocimientos de desarrollo de software.
  </p>
  
  ---
@@ -20,7 +21,10 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
      </div>
